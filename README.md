@@ -1,1 +1,1 @@
-部署在Mongodb上，用于个人网站的评论功能
+用于Mongodb和Vercel，实现个人博客的评论功能
